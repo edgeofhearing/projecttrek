@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>projecttrek</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PT-PT058">Quark</name><set>Playtest</set></card>
+		<card><name id="PT-PT058">Quark</name><set>Playtest</set></card>
+		<card><name id="PT-PT058">Quark</name><set>Playtest</set></card>
+		<card><name id="PT-PT049">Ferengi Tax Collector</name><set>Playtest</set></card>
+		<card><name id="PT-PT043">Brunt</name><set>Playtest</set></card>
+		<card><name id="PT-PT043">Brunt</name><set>Playtest</set></card>
+		<card><name id="PT-PT056">Nausicaan Brute</name><set>Playtest</set></card>
+		<card><name id="PT-PT056">Nausicaan Brute</name><set>Playtest</set></card>
+		<card><name id="PT-PT050">Gaila</name><set>Playtest</set></card>
+		<card><name id="PT-PT050">Gaila</name><set>Playtest</set></card>
+		<card><name id="PT-PT061">Tog</name><set>Playtest</set></card>
+		<card><name id="PT-PT061">Tog</name><set>Playtest</set></card>
+		<card><name id="PT-PT044">Dr. Reyga</name><set>Playtest</set></card>
+		<card><name id="PT-PT044">Dr. Reyga</name><set>Playtest</set></card>
+		<card><name id="PT-PT047">Ferengi Gouge Miner</name><set>Playtest</set></card>
+		<card><name id="PT-PT045">Ferengi Doctor</name><set>Playtest</set></card>
+		<card><name id="PT-PT045">Ferengi Doctor</name><set>Playtest</set></card>
+		<card><name id="PT-PT057">Purchase Moon</name><set>Playtest</set></card>
+		<card><name id="PT-PT057">Purchase Moon</name><set>Playtest</set></card>
+		<card><name id="PT-PT053">Krax</name><set>Playtest</set></card>
+		<card><name id="PT-PT053">Krax</name><set>Playtest</set></card>
+		<card><name id="PT-PT062">Zek</name><set>Playtest</set></card>
+		<card><name id="PT-PT062">Zek</name><set>Playtest</set></card>
+		<card><name id="PT-PT021">Outmaneuvered</name><set>Playtest</set></card>
+		<card><name id="PT-PT021">Outmaneuvered</name><set>Playtest</set></card>
+		<card><name id="PT-PT048">Ferengi Stealth</name><set>Playtest</set></card>
+		<card><name id="PT-PT048">Ferengi Stealth</name><set>Playtest</set></card>
+		<card><name id="PT-PT048">Ferengi Stealth</name><set>Playtest</set></card>
+		<card><name id="PT-PT052">He Has the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT052">He Has the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT052">He Has the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT042">A Small Fee</name><set>Playtest</set></card>
+		<card><name id="PT-PT042">A Small Fee</name><set>Playtest</set></card>
+		<card><name id="PT-PT051">He Doesn&apos;t Have the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT051">He Doesn&apos;t Have the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT051">He Doesn&apos;t Have the Lobes</name><set>Playtest</set></card>
+		<card><name id="PT-PT040">22nd Rule of Acquisition</name><set>Playtest</set></card>
+		<card><name id="PT-PT040">22nd Rule of Acquisition</name><set>Playtest</set></card>
+		<card><name id="PT-PT046">Ferengi Financial Net</name><set>Playtest</set></card>
+		<card><name id="PT-PT046">Ferengi Financial Net</name><set>Playtest</set></card>
+		<card><name id="PT-PT046">Ferengi Financial Net</name><set>Playtest</set></card>
+		<card><name id="PT-PT055">Leck</name><set>Playtest</set></card>
+		<card><name id="PT-PT055">Leck</name><set>Playtest</set></card>
+		<card><name id="PT-PT060">Rom</name><set>Playtest</set></card>
+		<card><name id="PT-PT060">Rom</name><set>Playtest</set></card>
+		<card><name id="PT-PT060">Rom</name><set>Playtest</set></card>
+		<card><name id="PT-PT060">Rom</name><set>Playtest</set></card>
+		<card><name id="PT-PT059">Recruit Mercenaries</name><set>Playtest</set></card>
+		<card><name id="PT-PT059">Recruit Mercenaries</name><set>Playtest</set></card>
+		<card><name id="PT-PT041">75th Rule of Acquisition</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Episodes">
+		<card><name id="PT-PT012">Negotiate Use</name><set>Playtest</set></card>
+		<card><name id="PT-PT003">Communicate with Alien</name><set>Playtest</set></card>
+		<card><name id="PT-PT002">Attend Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT008">Find Relic</name><set>Playtest</set></card>
+		<card><name id="PT-PT014">Search for Lost Crewmember</name><set>Playtest</set></card>
+		<card><name id="PT-PT010">Host Negotiations</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Starship">
+		<card><name id="PT-PTAftShield">Aft Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PTForeShield">Fore Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PT054">Krayton</name><set>Playtest</set></card>
+	</superzone>
+</deck>

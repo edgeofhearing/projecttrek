@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>projecttrek</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PT-PT036">Military Assimilation Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT036">Military Assimilation Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT036">Military Assimilation Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT036">Military Assimilation Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT037">Scout Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT037">Scout Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT037">Scout Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT037">Scout Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT020">Kazon Ambush</name><set>Playtest</set></card>
+		<card><name id="PT-PT020">Kazon Ambush</name><set>Playtest</set></card>
+		<card><name id="PT-PT019">Genesis Device</name><set>Playtest</set></card>
+		<card><name id="PT-PT019">Genesis Device</name><set>Playtest</set></card>
+		<card><name id="PT-PT039">The Collective</name><set>Playtest</set></card>
+		<card><name id="PT-PT026">Adapt</name><set>Playtest</set></card>
+		<card><name id="PT-PT026">Adapt</name><set>Playtest</set></card>
+		<card><name id="PT-PT033">Drone Alcove</name><set>Playtest</set></card>
+		<card><name id="PT-PT033">Drone Alcove</name><set>Playtest</set></card>
+		<card><name id="PT-PT033">Drone Alcove</name><set>Playtest</set></card>
+		<card><name id="PT-PT034">Focus</name><set>Playtest</set></card>
+		<card><name id="PT-PT034">Focus</name><set>Playtest</set></card>
+		<card><name id="PT-PT034">Focus</name><set>Playtest</set></card>
+		<card><name id="PT-PT034">Focus</name><set>Playtest</set></card>
+		<card><name id="PT-PT030">Cutting Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT030">Cutting Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT030">Cutting Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT017">Anti-Time Anomaly</name><set>Playtest</set></card>
+		<card><name id="PT-PT017">Anti-Time Anomaly</name><set>Playtest</set></card>
+		<card><name id="PT-PT031">Digger Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT031">Digger Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT031">Digger Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT031">Digger Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT032">Drive Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT032">Drive Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT032">Drive Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT032">Drive Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT029">B-Type Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT029">B-Type Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT029">B-Type Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT029">B-Type Drone</name><set>Playtest</set></card>
+		<card><name id="PT-PT038">Shield Disruptor Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT038">Shield Disruptor Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT038">Shield Disruptor Beam</name><set>Playtest</set></card>
+		<card><name id="PT-PT035">Green Torpedoes</name><set>Playtest</set></card>
+		<card><name id="PT-PT035">Green Torpedoes</name><set>Playtest</set></card>
+		<card><name id="PT-PT035">Green Torpedoes</name><set>Playtest</set></card>
+		<card><name id="PT-PT035">Green Torpedoes</name><set>Playtest</set></card>
+		<card><name id="PT-PT028">Borg Queen</name><set>Playtest</set></card>
+		<card><name id="PT-PT028">Borg Queen</name><set>Playtest</set></card>
+		<card><name id="PT-PT028">Borg Queen</name><set>Playtest</set></card>
+		<card><name id="PT-PT028">Borg Queen</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Episodes">
+		<card><name id="PT-PT014">Search for Lost Crewmember</name><set>Playtest</set></card>
+		<card><name id="PT-PT011">Liberate Captive</name><set>Playtest</set></card>
+		<card><name id="PT-PT009">First Contact</name><set>Playtest</set></card>
+		<card><name id="PT-PT006">Enlist Ally</name><set>Playtest</set></card>
+		<card><name id="PT-PT005">Destroy Homeworld</name><set>Playtest</set></card>
+		<card><name id="PT-PT007">Expose Conspiracy</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Starship">
+		<card><name id="PT-PTAftShield">Aft Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PTForeShield">Fore Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PT027">Borg Cube 630</name><set>Playtest</set></card>
+	</superzone>
+</deck>

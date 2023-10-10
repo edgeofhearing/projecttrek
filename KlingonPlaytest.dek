@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>projecttrek</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PT-PT070">Honorable Warrior</name><set>Playtest</set></card>
+		<card><name id="PT-PT070">Honorable Warrior</name><set>Playtest</set></card>
+		<card><name id="PT-PT070">Honorable Warrior</name><set>Playtest</set></card>
+		<card><name id="PT-PT070">Honorable Warrior</name><set>Playtest</set></card>
+		<card><name id="PT-PT072">K&apos;Ehleyr</name><set>Playtest</set></card>
+		<card><name id="PT-PT072">K&apos;Ehleyr</name><set>Playtest</set></card>
+		<card><name id="PT-PT066">Diplomatic Escort</name><set>Playtest</set></card>
+		<card><name id="PT-PT066">Diplomatic Escort</name><set>Playtest</set></card>
+		<card><name id="PT-PT066">Diplomatic Escort</name><set>Playtest</set></card>
+		<card><name id="PT-PT066">Diplomatic Escort</name><set>Playtest</set></card>
+		<card><name id="PT-PT074">Klingon Scientist</name><set>Playtest</set></card>
+		<card><name id="PT-PT074">Klingon Scientist</name><set>Playtest</set></card>
+		<card><name id="PT-PT074">Klingon Scientist</name><set>Playtest</set></card>
+		<card><name id="PT-PT074">Klingon Scientist</name><set>Playtest</set></card>
+		<card><name id="PT-PT076">Klingon Warp Tech</name><set>Playtest</set></card>
+		<card><name id="PT-PT076">Klingon Warp Tech</name><set>Playtest</set></card>
+		<card><name id="PT-PT076">Klingon Warp Tech</name><set>Playtest</set></card>
+		<card><name id="PT-PT076">Klingon Warp Tech</name><set>Playtest</set></card>
+		<card><name id="PT-PT075">Klingon Veteran</name><set>Playtest</set></card>
+		<card><name id="PT-PT075">Klingon Veteran</name><set>Playtest</set></card>
+		<card><name id="PT-PT075">Klingon Veteran</name><set>Playtest</set></card>
+		<card><name id="PT-PT075">Klingon Veteran</name><set>Playtest</set></card>
+		<card><name id="PT-PT063">Advanced Disruptors</name><set>Playtest</set></card>
+		<card><name id="PT-PT063">Advanced Disruptors</name><set>Playtest</set></card>
+		<card><name id="PT-PT067">Ferocity</name><set>Playtest</set></card>
+		<card><name id="PT-PT067">Ferocity</name><set>Playtest</set></card>
+		<card><name id="PT-PT067">Ferocity</name><set>Playtest</set></card>
+		<card><name id="PT-PT067">Ferocity</name><set>Playtest</set></card>
+		<card><name id="PT-PT064">Blood Oath</name><set>Playtest</set></card>
+		<card><name id="PT-PT064">Blood Oath</name><set>Playtest</set></card>
+		<card><name id="PT-PT064">Blood Oath</name><set>Playtest</set></card>
+		<card><name id="PT-PT064">Blood Oath</name><set>Playtest</set></card>
+		<card><name id="PT-PT069">Gowron</name><set>Playtest</set></card>
+		<card><name id="PT-PT069">Gowron</name><set>Playtest</set></card>
+		<card><name id="PT-PT068">General Chang</name><set>Playtest</set></card>
+		<card><name id="PT-PT068">General Chang</name><set>Playtest</set></card>
+		<card><name id="PT-PT079">Weapons Officer</name><set>Playtest</set></card>
+		<card><name id="PT-PT079">Weapons Officer</name><set>Playtest</set></card>
+		<card><name id="PT-PT079">Weapons Officer</name><set>Playtest</set></card>
+		<card><name id="PT-PT079">Weapons Officer</name><set>Playtest</set></card>
+		<card><name id="PT-PT077">Photon Shot</name><set>Playtest</set></card>
+		<card><name id="PT-PT077">Photon Shot</name><set>Playtest</set></card>
+		<card><name id="PT-PT077">Photon Shot</name><set>Playtest</set></card>
+		<card><name id="PT-PT077">Photon Shot</name><set>Playtest</set></card>
+		<card><name id="PT-PT065">Boarding Party</name><set>Playtest</set></card>
+		<card><name id="PT-PT065">Boarding Party</name><set>Playtest</set></card>
+		<card><name id="PT-PT065">Boarding Party</name><set>Playtest</set></card>
+		<card><name id="PT-PT065">Boarding Party</name><set>Playtest</set></card>
+		<card><name id="PT-PT078">Targeting Scanners</name><set>Playtest</set></card>
+		<card><name id="PT-PT078">Targeting Scanners</name><set>Playtest</set></card>
+		<card><name id="PT-PT073">Klingon Diplomat</name><set>Playtest</set></card>
+		<card><name id="PT-PT073">Klingon Diplomat</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Episodes">
+		<card><name id="PT-PT004">Deliver Shipment</name><set>Playtest</set></card>
+		<card><name id="PT-PT002">Attend Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT001">Acquire Arms</name><set>Playtest</set></card>
+		<card><name id="PT-PT009">First Contact</name><set>Playtest</set></card>
+		<card><name id="PT-PT014">Search for Lost Crewmember</name><set>Playtest</set></card>
+		<card><name id="PT-PT016">Warp Drive Test</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Starship">
+		<card><name id="PT-PTAftShield">Aft Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PTForeShield">Fore Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PT071">I.K.S. Bortas</name><set>Playtest</set></card>
+	</superzone>
+</deck>

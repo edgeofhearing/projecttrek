@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>projecttrek</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PT-PT089">Geordi La Forge</name><set>Playtest</set></card>
+		<card><name id="PT-PT089">Geordi La Forge</name><set>Playtest</set></card>
+		<card><name id="PT-PT094">William T. Riker</name><set>Playtest</set></card>
+		<card><name id="PT-PT094">William T. Riker</name><set>Playtest</set></card>
+		<card><name id="PT-PT094">William T. Riker</name><set>Playtest</set></card>
+		<card><name id="PT-PT084">Deanna Troi</name><set>Playtest</set></card>
+		<card><name id="PT-PT084">Deanna Troi</name><set>Playtest</set></card>
+		<card><name id="PT-PT088">Engineering Technician</name><set>Playtest</set></card>
+		<card><name id="PT-PT088">Engineering Technician</name><set>Playtest</set></card>
+		<card><name id="PT-PT080">Aggressive Admiral</name><set>Playtest</set></card>
+		<card><name id="PT-PT080">Aggressive Admiral</name><set>Playtest</set></card>
+		<card><name id="PT-PT080">Aggressive Admiral</name><set>Playtest</set></card>
+		<card><name id="PT-PT085">Diplomatic Envoy</name><set>Playtest</set></card>
+		<card><name id="PT-PT085">Diplomatic Envoy</name><set>Playtest</set></card>
+		<card><name id="PT-PT085">Diplomatic Envoy</name><set>Playtest</set></card>
+		<card><name id="PT-PT085">Diplomatic Envoy</name><set>Playtest</set></card>
+		<card><name id="PT-PT086">Eager Recruit</name><set>Playtest</set></card>
+		<card><name id="PT-PT086">Eager Recruit</name><set>Playtest</set></card>
+		<card><name id="PT-PT086">Eager Recruit</name><set>Playtest</set></card>
+		<card><name id="PT-PT095">Worf</name><set>Playtest</set></card>
+		<card><name id="PT-PT095">Worf</name><set>Playtest</set></card>
+		<card><name id="PT-PT083">Data Shuffling Cards</name><set>Playtest</set></card>
+		<card><name id="PT-PT083">Data Shuffling Cards</name><set>Playtest</set></card>
+		<card><name id="PT-PT083">Data Shuffling Cards</name><set>Playtest</set></card>
+		<card><name id="PT-PT083">Data Shuffling Cards</name><set>Playtest</set></card>
+		<card><name id="PT-PT022">Pakled Ruse</name><set>Playtest</set></card>
+		<card><name id="PT-PT023">Trophies of the Hirogen</name><set>Playtest</set></card>
+		<card><name id="PT-PT021">Outmaneuvered</name><set>Playtest</set></card>
+		<card><name id="PT-PT090">Jean-Luc Picard</name><set>Playtest</set></card>
+		<card><name id="PT-PT090">Jean-Luc Picard</name><set>Playtest</set></card>
+		<card><name id="PT-PT090">Jean-Luc Picard</name><set>Playtest</set></card>
+		<card><name id="PT-PT090">Jean-Luc Picard</name><set>Playtest</set></card>
+		<card><name id="PT-PT081">Beverly Crusher</name><set>Playtest</set></card>
+		<card><name id="PT-PT081">Beverly Crusher</name><set>Playtest</set></card>
+		<card><name id="PT-PT081">Beverly Crusher</name><set>Playtest</set></card>
+		<card><name id="PT-PT087">Empty Collectors</name><set>Playtest</set></card>
+		<card><name id="PT-PT087">Empty Collectors</name><set>Playtest</set></card>
+		<card><name id="PT-PT091">Nutational Shields</name><set>Playtest</set></card>
+		<card><name id="PT-PT091">Nutational Shields</name><set>Playtest</set></card>
+		<card><name id="PT-PT082">Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT082">Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT082">Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT082">Conference</name><set>Playtest</set></card>
+		<card><name id="PT-PT018">Drained Shields</name><set>Playtest</set></card>
+		<card><name id="PT-PT018">Drained Shields</name><set>Playtest</set></card>
+		<card><name id="PT-PT024">Under Bombardment</name><set>Playtest</set></card>
+		<card><name id="PT-PT025">Witchhunt Trials</name><set>Playtest</set></card>
+		<card><name id="PT-PT020">Kazon Ambush</name><set>Playtest</set></card>
+		<card><name id="PT-PT092">Security Officer</name><set>Playtest</set></card>
+		<card><name id="PT-PT092">Security Officer</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Episodes">
+		<card><name id="PT-PT016">Warp Drive Test</name><set>Playtest</set></card>
+		<card><name id="PT-PT012">Negotiate Use</name><set>Playtest</set></card>
+		<card><name id="PT-PT013">Purchase Technology</name><set>Playtest</set></card>
+		<card><name id="PT-PT010">Host Negotiations</name><set>Playtest</set></card>
+		<card><name id="PT-PT015">Study Primitive Culture</name><set>Playtest</set></card>
+		<card><name id="PT-PT006">Enlist Ally</name><set>Playtest</set></card>
+	</superzone>
+	<superzone name="Starship">
+		<card><name id="PT-PTAftShield">Aft Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PTForeShield">Fore Shield</name><set>Playtest</set></card>
+		<card><name id="PT-PT093">U.S.S. Enterprise-E</name><set>Playtest</set></card>
+	</superzone>
+</deck>

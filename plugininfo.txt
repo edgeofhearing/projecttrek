@@ -1,0 +1,229 @@
+<plugin>
+
+<globalstat>
+	<label>Victory Tokens</label>
+	<initialvalue>18</initialvalue>
+</globalstat>
+
+<playerstat>
+	<label>Collected Victory Tokens</label>
+	<initialvalue>0</initialvalue>
+</playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<gamezonetoloadto>Deck</gamezonetoloadto>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Episodes</label>
+	<gamezonetoloadto>Episodes</gamezonetoloadto>
+	<shuffle>no</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Starship</label>
+	<gamezonetoloadto>Starship</gamezonetoloadto>
+	<shuffle>no</shuffle>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Episodes</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+
+<gamezone>
+	<label>Starship</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Energy</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Exhaust</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Removed</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<phase>
+	<label>Base</label>
+</phase>
+
+<phase>
+	<label>Mission</label>
+</phase>
+
+<phase>
+	<label>Encounter1</label>
+</phase>
+
+<phase>
+	<label>Encounter2</label>
+</phase>
+
+<phase>
+	<label>Encounter3</label>
+</phase>
+
+<generalfunction>
+	<label>Draw 1 card</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Draw Energy</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>perfomer</destinationowner>
+	<destinationgamezone>Energy</destinationgamezone>
+	<destinationposition>bottom</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Spend Energy</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Energy</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>perfomer</destinationowner>
+	<destinationgamezone>Exhaust</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Return Exhaust</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Exhaust</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>perfomer</destinationowner>
+	<destinationgamezone>Deck</destinationgamezone>
+	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Previous Phase</label>
+	<kind>PREVIOUSPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Next Phase</label>
+	<kind>NEXTPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Previous Turn</label>
+	<kind>PEREVIOUSTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Roll D20</label>
+	<kind>ROLLD20</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<cardfunction>
+	<label>Turn Over</label>
+	<kind>TURNOVER</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Take Control</label>
+	<kind>CHANGEOWNER</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Apply</label>
+	<kind>ADDCOUNTER</kind>
+	<color>black</color>
+	<textoverimagecolor>000000</textoverimagecolor>
+	<PositionX>0</PositionX><PositionY>0</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Damage</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<textoverimagecolor>FFFFFF</textoverimagecolor>
+	<PositionX>0</PositionX><PositionY>0</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Remove Apply Counter</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>black</color>
+</cardfunction>
+
+<cardfunction>
+	<label>Remove Damage Counter</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>black</color>
+</cardfunction>
+
+<cardfunction>
+	<label>Untap</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Tap</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Clear</label>
+	<kind>CLEARCARD</kind>
+</cardfunction>
+
+<definition>
+	<kind>REUSECARDIMAGES</kind>
+</definition>
+
+</plugin>
