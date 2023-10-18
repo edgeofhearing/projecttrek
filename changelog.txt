@@ -1,5 +1,16 @@
 ﻿CHANGELOG projecttrek plugin
 
+------
+0.0.2 (10-18-23)
+(edgeofhearing)
+
+Updated
+-Changed Apply/Order counter name
+-Changed Charge Energy name
+
+NEW
+-Added all 7.1 cards
+
 
 ------
 0.0.1 (10-10-23)

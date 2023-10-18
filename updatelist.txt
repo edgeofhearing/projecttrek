@@ -1,16 +1,20 @@
-projecttrek	10-10-23
-plugins/projecttrek/version.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/version.txt	37486
-plugins/projecttrek/defaultchat.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/defaultchat.txt	25474
-plugins/projecttrek/plugininfo.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/plugininfo.txt	578009
-plugins/projecttrek/changelog.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/changelog.txt	1104557
-plugins/projecttrek/sets/Playtest.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/Playtest.txt	52688973
+projecttrek	10-18-23
+plugins/projecttrek/version.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/version.txt	39246
+plugins/projecttrek/defaultchat.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/defaultchat.txt	16492
+plugins/projecttrek/plugininfo.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/plugininfo.txt	433468
+plugins/projecttrek/changelog.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/changelog.txt	18106
+plugins/projecttrek/sets/Playtest.txt	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/Playtest.txt	3159205
 plugins/projecttrek/bot.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/bot.jpg	182854
-plugins/projecttrek/decks/BorgPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/BorgPlaytest.dek	93849
-plugins/projecttrek/decks/FerengiPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/FerengiPlaytest.dek	99133
-plugins/projecttrek/decks/KlingonPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/KlingonPlaytest.dek	84151
-plugins/projecttrek/decks/TNGPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/TNGPlaytest.dek	98472
-plugins/projecttrek/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/CardMissing.jpg	177461
-plugins/projecttrek/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/Spawned.jpg	163676
-plugins/projecttrek/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/cardback.jpg	179863
+plugins/projecttrek/decks/BorgPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/BorgPlaytest.dek	385922
+plugins/projecttrek/decks/FerengiPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/FerengiPlaytest.dek	381451
+plugins/projecttrek/decks/KlingonPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/KlingonPlaytest.dek	404846
+plugins/projecttrek/decks/TNGPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/TNGPlaytest.dek	396505
+plugins/projecttrek/decks/7.1BorgPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/7.1BorgPlaytest.dek	380104
+plugins/projecttrek/decks/7.1FerengiPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/7.1FerengiPlaytest.dek	371524
+plugins/projecttrek/decks/7.1KlingonPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/7.1KlingonPlaytest.dek	368545
+plugins/projecttrek/decks/7.1TNGPlaytest.dek	https://raw.githubusercontent.com/edgeofhearing/projecttrek/main/7.1TNGPlaytest.dek	366719
+plugins/projecttrek/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/CardMissing.jpg	272507
+plugins/projecttrek/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/Spawned.jpg	317867
+plugins/projecttrek/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/cardback.jpg	281186
 CardGeneralURLs:		
 https://raw.githubusercontent.com/edgeofhearing/projecttrek/images/

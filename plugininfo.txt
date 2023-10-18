@@ -78,23 +78,15 @@
 </gamezone>
 
 <phase>
-	<label>Base</label>
+	<label>Briefing Phase</label>
 </phase>
 
 <phase>
-	<label>Mission</label>
+	<label>Mission Phase</label>
 </phase>
 
 <phase>
-	<label>Encounter1</label>
-</phase>
-
-<phase>
-	<label>Encounter2</label>
-</phase>
-
-<phase>
-	<label>Encounter3</label>
+	<label>Engagement Phase</label>
 </phase>
 
 <generalfunction>
@@ -104,7 +96,7 @@
 </generalfunction>
 
 <generalfunction>
-	<label>Draw Energy</label>
+	<label>Charge 1 Energy</label>
 	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
 	<sourcegamezone>Deck</sourcegamezone>
@@ -116,14 +108,14 @@
 </generalfunction>
 
 <generalfunction>
-	<label>Spend Energy</label>
+	<label>Spend 1 Energy</label>
 	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
 	<sourcegamezone>Energy</sourcegamezone>
 	<sourceposition>top</sourceposition>
 	<destinationowner>perfomer</destinationowner>
 	<destinationgamezone>Exhaust</destinationgamezone>
-	<destinationposition>top</destinationposition>
+	<destinationposition>bottom</destinationposition>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 
@@ -135,7 +127,7 @@
 	<sourceposition>top</sourceposition>
 	<destinationowner>perfomer</destinationowner>
 	<destinationgamezone>Deck</destinationgamezone>
-	<destinationposition>top</destinationposition>
+	<destinationposition>bottom</destinationposition>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 
@@ -150,6 +142,7 @@
 	<kind>NEXTPHASE</kind>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+
 
 <generalfunction>
 	<label>Previous Turn</label>
@@ -171,16 +164,16 @@
 
 <cardfunction>
 	<label>Turn Over</label>
-	<kind>TURNOVER</kind>
+<kind>TURNOVER</kind>
 </cardfunction>
 
 <cardfunction>
-	<label>Take Control</label>
-	<kind>CHANGEOWNER</kind>
+<label>Take Control</label>
+<kind>CHANGEOWNER</kind>
 </cardfunction>
 
 <cardfunction>
-	<label>Apply</label>
+	<label>Apply/Order</label>
 	<kind>ADDCOUNTER</kind>
 	<color>black</color>
 	<textoverimagecolor>000000</textoverimagecolor>
@@ -196,7 +189,7 @@
 </cardfunction>
 
 <cardfunction>
-	<label>Remove Apply Counter</label>
+	<label>Remove Apply/Order Counter</label>
 	<kind>REMOVECOUNTER</kind>
 	<color>black</color>
 </cardfunction>
