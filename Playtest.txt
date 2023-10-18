@@ -1,98 +1,193 @@
-Name	Set	ImageFile	Type	Affiliation	Energy	Unique	DiplomacyValue	DiplomacyText	MilitaryValue	MilitaryText	ScienceValue	ScienceText	Keywords	SpeciesType	Arrow	Gametext
-Acquire Arms	Playtest	PT-PT001	Episode				1	Charge 1 energy.	1	Remove 1 token from each of your defense cards.	1	Draw 3 cards.	Planet			
-Attend Conference	Playtest	PT-PT002	Episode				1	Draw 2 cards.	1	Draw 2 cards.	1	Draw 2 cards.	Planet			
-Communicate with Alien	Playtest	PT-PT003	Episode				3	Place 3 Diplomacy crew you command on your exhaust pile in any order.	0	Play a Diplomacy crew for free.	0	Play a Diplomacy crew for free.	Space			
-Deliver Shipment	Playtest	PT-PT004	Episode				1	Charge 2 energy.	1	Charge 2 energy.	1	Charge 2 energy.	Space			
-Destroy Homeworld	Playtest	PT-PT005	Episode				0	Charge X energy. X = 9 - the number of crew you command.	3	Dismiss 2 Military crew.	0	Remove all tokens from your defense cards.	Space			
-Enlist Ally	Playtest	PT-PT006	Episode				2	Discard 2 cards from hand.	1		0	You are +2 Military and +1 Diplomacy this episode.	Planet			
-Expose Conspiracy	Playtest	PT-PT007	Episode				0	Each opponent who commands a Diplomacy crew must dismiss 1 Diplomacy crew.	2	Each opponent who commands a Military crew may draw a card.	1		Planet			
-Find Relic	Playtest	PT-PT008	Episode				3	Dismiss all conditions that added to your Diplomacy total in this encounter.	0	Charge 1 energy for each weapon equipment you command.	0	Charge 1 energy for each non-weapon equipment you command.	Planet			
-First Contact	Playtest	PT-PT009	Episode				1	If you won all encounters this episode, charge 2 energy.	1	You are +1 Diplomacy this episode.	1	You are +1 Military this episode	Planet			
-Host Negotiations	Playtest	PT-PT010	Episode				2	Discard 1 card from the top of your deck for each Negotiation crew you command.	0	Charge 1 energy for each Information crew you command.	1	Return a weapon condition to hand.	Space			
-Liberate Captive	Playtest	PT-PT011	Episode				0	Add 2 Military in this episode's Military encounter.	3	Dismiss a Military crew. Each opponent may charge energy equal to that crew's cost.	0	Add 2 Military in this episode's Military encounter.	Planet			
-Negotiate Use	Playtest	PT-PT012	Episode				3	Dismiss a Diplomacy crew. Each opponent may charge energy equal to that crew's cost.	0	Charge 1 energy for each Military crew you command.	0	Charge 1 energy for each Science crew you command.	Space			
-Purchase Technology	Playtest	PT-PT013	Episode				1		0	You may dismiss or discard from hand X equipment cards and charge X energy.	2	Discard 2 cards from hand at random.	Space			
-Search for Lost Crewmember	Playtest	PT-PT014	Episode				1	Return 1 Negotiation crew to hand.	1	Return an equipment condition to hand.	1	Draw 1 card.	Planet			
-Study Primitive Culture	Playtest	PT-PT015	Episode				2	Discard 2 cards from hand.	0	Dismiss up to 2 Military crew, then play that many Diplomacy crew for free.	1		Planet			
-Warp Drive Test	Playtest	PT-PT016	Episode				1	Charge 1 energy for each Negotiation crew you command.	1	Charge 1 energy for each ship condition you command.	1	Charge 1 energy for each Engineering crew you command.	Space			
-Anti-Time Anomaly	Playtest	PT-PT017	Hazard													End of episode: All players dimiss all crew.
-Drained Shields	Playtest	PT-PT018	Hazard													Mission: Any player may apply 3 Military crew to destroy Drained Shields. Military Encounter Winner: Add tokens to your defense cards until both are down. You may apply a Science crew twice to prevent this.
-Genesis Device	Playtest	PT-PT019	Hazard										Khan			End of episode: All crew and equipment are placed in their owners' exhaust piles. Each player may draw until they have 7 cards in hand and may charge 4 energy.
-Kazon Ambush	Playtest	PT-PT020	Hazard													Mission: Any player may apply 3 Military crew to destroy Kazon Ambush. 3rd Encounter Winner: Dismiss a Diplomacy crew, a Military crew, and a Science crew.
-Outmaneuvered	Playtest	PT-PT021	Hazard													Mission: Any player may apply a Military crew and spend 3 energy to destroy Outmaneuvered. Military Encounter Winner: Reveal your hand. Discard all weapon events revealed.
-Pakled Ruse	Playtest	PT-PT022	Hazard													Mission: Any player may apply 2 Military crew to destroy Pakled Ruse. Science Encounter Winner: Reveal your hand. Discard each Science crew revealed.
-Trophies of the Hirogen	Playtest	PT-PT023	Hazard													Mission: Any player may apply 2 Diplomacy crew to destroy Trophies of the Hirogen. Military Encounter Winner: Discard a number of cards from the top of your deck equal to your Military total in this encounter.
-Under Bombardment	Playtest	PT-PT024	Hazard										Planet.			Mission: Any player may discard 3 cards from hand to destroy Under Bombardment. Science Encounter Winner: Reveal your hand. Discard all conditions revealed.
-Witchhunt Trials	Playtest	PT-PT025	Hazard													Mission: Any player may discard 3 cards from hand to destroy Witchhunt Trials. Diplomacy Encounter Winner: Reveal your hand. Discard each Diplomacy crew revealed.
-Adapt	Playtest	PT-PT026	Event	Borg	3	N										Mission: Unless any player spends 2 energy to prevent it, search your deck and take a card into hand; reshuffle.
-Borg Cube 630	Playtest	PT-PT027	Starship	Borg	12	Y					1		Energy Beam. Cutting Beam.	Cube.		At the start of the mission phase, you may charge 1 extra energy for each non-Borg crew you command (limit 3). Starship Weapon - Borg Energy Beam. Cost: 3 energy. Power: 1. Targeting: Opponent. Damage: Discard 1 crew or equipment.
-Borg Queen	Playtest	PT-PT028	Crew	Borg	5	Y			3				Tactical.	Borg.	Fore	While you command 3 drones, up to 3 of your temporary crew are not discarded at the end of episodes.
-B-Type Drone	Playtest	PT-PT029	Crew	Borg	2	N			1				Drone. Combat.	Borg.	Aft	Response: If a crew at a planet episode is about to be destroyed or dismissed, apply B-Type Drone to prevent this, then take command of that crew.
-Cutting Beam	Playtest	PT-PT030	Condition	Borg	3	N								Equipment.	Fore	Plays on a Cube. Starship Weapon. Mission: Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew. You may spend 1 energy to take command of this crew.
-Digger Drone	Playtest	PT-PT031	Crew	Borg	3	N					1		Drone. Geophysics.	Borg.	Aft	If at a planet episode, you may charge one extra energy at the start of your base phase and mission phase.
-Drive Drone	Playtest	PT-PT032	Crew	Borg	2	N					1		Drone.	Borg.	Aft	When Drive Drone enters play, you may add a toke to one of your defense cards to charge 2 energy.
-Drone Alcove	Playtest	PT-PT033	Condition	Borg	1	N							Equipment.		Fore Aft	When you are paying support at the start of your base phase, you may apply up to 2 of your drones to reduce your support cost by 1 for each drone applied.
-Focus	Playtest	PT-PT034	Event	Borg	2	N										Base: Dismiss 1 of your Victory tokens. Take a card from your deck into hand; reshuffle.
-Green Torpedoes	Playtest	PT-PT035	Event	Borg	3	N							Weapon.			Starship weapon. Mission: Power: 2 Targeting: Opponent Damage: Discard 4 cards from deck.
-Military Assimilation Drone	Playtest	PT-PT036	Crew	Borg	3	N			1				Drone.	Borg.	Fore Aft	While you command another crew that has Combat, Helm, Information, or Tactical, Military Assimilation Drone also has that ability.
-Scout Drone	Playtest	PT-PT037	Crew	Borg	3	N			1				Drone. Combat.	Borg.	Fore Aft	Mission: If an opponent's defense card is down, dismiss Scout Drone to destroy a crew that opponent commands.
-Shield Disruptor Beam	Playtest	PT-PT038	Condition	Borg	1	N								Equipment.	Fore	Plays on a Cube. Starship Weapon Mission: Cost: 2 energy Power: 1 Targeting: Opponent Damage: None.
-The Collective	Playtest	PT-PT039	Condition	Borg	1	N										Base or Mission: Apply a Drone to charge 1 engergy.
-22nd Rule of Acquisition	Playtest	PT-PT040	Event	Ferengi	0	N							Rule.			Base or Mission: Apply up to 3 Ferengi. Charge 2 energy for each Ferengi applied.
-75th Rule of Acquisition	Playtest	PT-PT041	Condition	Ferengi	2	N							Rule.			Mission: Spend 1 energy to play a Ferengi crew (you must pay that crew's cost).
-A Small Fee	Playtest	PT-PT042	Condition	Ferengi	1	N										Conditions have a support cost of 1. Players may dismiss a condition instead of paying its support costs.
-Brunt	Playtest	PT-PT043	Crew	Ferengi	4	Y			2				Information.	Ferengi.	Fore	When Brunt enters play, all opponents must discard 1 card from hand. Mission: Apply Brunt to force an opponent to spend 2 energy.
-Dr. Reyga	Playtest	PT-PT044	Crew	Ferengi	3	Y					1		Astrophysics.	Ferengi.	Fore	Science encounter: If at a space episode, apply Dr. Reyga to add 2 Science.
-Ferengi Doctor	Playtest	PT-PT045	Crew	Ferengi	2	N					1		Medicine.	Ferengi.	Fore Aft	Base: Apply Ferengi Doctor to remove a token from a crew.
-Ferengi Financial Net	Playtest	PT-PT046	Event	Ferengi	4	N										Base or Mission: Charge 6 energy.
-Ferengi Gouge Miner	Playtest	PT-PT047	Crew	Ferengi	2	N					1		Geophysics.	Ferengi.	Aft	When Ferengi Gouge Miner enters play, you may destroy a Planet Hazard.
-Ferengi Stealth	Playtest	PT-PT048	Condition	Ferengi	2	N										Response: If a Ferengi you command is being destroyed, return that Ferengi to hand.
-Ferengi Tax Collector	Playtest	PT-PT049	Crew	Ferengi	3	N	1						Communication.	Ferengi.	Aft	At the start of each opponent's base phase, that opponent charges 1 less energy.
-Gaila	Playtest	PT-PT050	Crew	Ferengi	2	Y	2						Trade. Negotiation.	Ferengi.	Aft	Mission: Apply Gaila to destroy an equipment card. That equipment's owner may spend 2 energy to prevent this.
-He Doesn't Have the Lobes	Playtest	PT-PT051	Event	Ferengi	0	N										Mission: Draw 1 card, then charge 2 energy.
-He Has the Lobes	Playtest	PT-PT052	Event	Ferengi	0	N										Mission: Draw 2 cards, then charge 1 energy.
-Krax	Playtest	PT-PT053	Crew	Ferengi	3	Y	1						Communincation.	Ferengi.	Fore	When Krax enters play, you may play a condition from your deck at twice its energy cost.
-Krayton	Playtest	PT-PT054	Starship	Ferengi	12	Y	1						Ferengi Disruptors.	Marauder.		At the start of your base phase, you may draw a card. Starship Weapon - Ferengi Disruptors Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
-Leck	Playtest	PT-PT055	Crew	Ferengi	4	Y			1				Combat.	Ferengi.	Fore	Base: Dismiss a crew. Mission: If at a planet episode, apply Leck and spend 3 energy to destroy a crew.
-Nausicaan Brute	Playtest	PT-PT056	Crew	Ferengi	1	N			1				Combat.	Nausicaan.	Fore Aft	Nausicaan Brute's support cost is +1. Response: If a Ferengi crew you command is about to be destroyed, apply Nausicaan Brute to prevent this.
-Purchase Moon	Playtest	PT-PT057	Event	Ferengi	10	N										Mission: Apply 3 Trade crew to take a Victory token from the pool.
-Quark	Playtest	PT-PT058	Crew	Ferengi	4	Y	2						Trade. Negotiation.	Ferengi.	Aft	Your hand limit is 8. Base: Apply Quark to draw a card.
-Recruit Mercenaries	Playtest	PT-PT059	Event	Ferengi	2	N							Bribe.			Mission: Apply a Negotiation crew and give an opponent one of your Victory tokens. That opponent cannot fire weapons at your starship for the rest of this episode. You cannot fire weapons at that opponent's starship for the rest of this episode.
-Rom	Playtest	PT-PT060	Crew	Ferengi	4	Y					2		Engineering.	Ferengi.	Aft	When Rom enters play, you may remove a token from 1 of your defense cards. Mission: Apply Rom to remove a token from 1 of your defense cards.
-Tog	Playtest	PT-PT061	Crew	Ferengi	3	Y	1						Trade. Leader.	Ferengi.	Fore	Mission: While Tog is aboard the Krayton and an opponent has a defense card down, apply Tog to take command of one of that opponent's Diplomacy crew.
-Zek	Playtest	PT-PT062	Crew	Ferengi	5	Y	3						Leader. Trade.	Ferengi.	Aft	Mission: Apply Zek to play a crew (you must pay that crew's energy cost).
-Advanced Disruptors	Playtest	PT-PT063	Condition	Klingon	3	N	3							Equipment.	Fore	Mission: Starship Weapon: Disruptors Cost: 3 energy Power: 2 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
-Blood Oath	Playtest	PT-PT064	Event	Klingon	X	N										Mission: Apply 2 Combat crew to destroy a crew. X = the energy cost + skill icon number on that crew.
-Boarding Party	Playtest	PT-PT065	Event	Klingon	3	N										Requires 3 combat crew. Mission: Destroy a Diplomacy or Science crew aboard a starship with a defense card down.
-Diplomatic Escort	Playtest	PT-PT066	Crew	Klingon	3	N	1						Negotiation.	Klingon.	Aft	If you have won the Military encounter at this episode, adds 1 extra Diplomacy.
-Ferocity	Playtest	PT-PT067	Event	Klingon	1	N										Mission: If at a planet episode, apply a Combat crew to fully apply a Diplomacy or Science crew, or to destroy a fully applied crew.
-General Chang	Playtest	PT-PT068	Crew	Klingon	5	Y			3				Tactical.	Klingon.	Fore Aft	Response: While on I.K.S. Kla'Diyus and you are paying support, apply General Chang instead of paying a Tactical crew's support cost.
-Gowron	Playtest	PT-PT069	Crew	Klingon	5	Y			3				Tactical.	Klingon.	Fore Aft	Players who end an episode with no crew in play must destroy one of their Victory tokens.
-Honorable Warrior	Playtest	PT-PT070	Crew	Klingon	2	N			1				Combat.	Klingon.	Fore Aft	Any encounter: If at a planet episode, apply Honorable Warrior to make an opponent -1 in this encounter.
-I.K.S. Bortas	Playtest	PT-PT071	Starship	Klingon	12	Y	1						Disruptors. Photon Torpedoes. Cloak.	Vor'cha		You may charge 1 energy each time you earn a Victory token in a Diplomacy encounter. Starship Weapon: Disruptors Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
-K'Ehleyr	Playtest	PT-PT072	Crew	Klingon	3	Y	2						Negotiation.	Klingon. Human.	Fore	Response: If you win a Diplomacy encounter, you may dismiss K'Ehleyr to negate the encounter text (you still earn the Victory tokens, if any).
-Klingon Diplomat	Playtest	PT-PT073	Crew	Klingon	3	N	1							Klingon.	Fore	Response: If you just lost the Diplomacy encounter, dismiss Klingon Diplomat to destroy a Diplomacy crew on the starship which won the encounter.
-Klingon Scientist	Playtest	PT-PT074	Crew	Klingon	3	N					1		Astrophysics.	Klingon.	Aft	If you have won the Military encounter at this episode, adds 1 extra Science.
-Klingon Veteran	Playtest	PT-PT075	Crew	Klingon	2	N			1				Combat.	Klingon.	Fore Aft	Mission: If at a planet episode, apply Klingon Veteran and discard a card from hand to destroy any temporary crew or crew that is fully applied.
-Klingon Warp Tech	Playtest	PT-PT076	Crew	Klingon	3	N					1		Engineering.	Klingon.	Aft	The first time you fire a weapon each mission phase, you may charge 1 energy.
-Photon Shot	Playtest	PT-PT077	Event	Klingon	3	N								Weapon.		Requires Photon Torpedoes. Mission: Starship Weapon - Photon Torpedo Cost: Apply a Military crew. Power: 3 Targeting: You Damage: Discard 3 cards from deck.
-Targeting Scanners	Playtest	PT-PT078	Condition	Klingon	1	N								Equipment.	Fore	Response: When you fire your starship disruptors, apply 1 Military to reduce the cost to fire by 1 energy.
-Weapons Officer	Playtest	PT-PT079	Crew	Klingon	3	N			1				Tactical.	Klingon.	Fore	When Weapons Officer enters play, you may apply him to take a weapon event into hand from your discard pile.
-Aggressive Admiral	Playtest	PT-PT080	Crew	TNG	3	N	1						Negotiation.	Human.	Fore	Military encounter: If you command another Diplomacy crew, apply Aggressive Admiral to add 1 Military.
-Beverly Crusher	Playtest	PT-PT081	Crew	TNG	4	Y					2		Medicine.	Human.	Aft	Base: Apply Beverly Crusher and spend 1 energy to take a crew from your discard pile into hand.
-Conference	Playtest	PT-PT082	Condition	TNG	1	N										Any Encounter: If you command a Diplomacy crew, a Military crew, and a Science crew, dismiss Conference to add 2 to your total in this encounter.
-Data Shuffling Cards	Playtest	PT-PT083	Event	TNG	1	N										Mission: Place a condition on its owner's exhaust pile. That player may charge energy equal to that condition's cost.
-Deanna Troi	Playtest	PT-PT084	Crew	TNG	4	Y	2						Communication. Telepathy.	Betazoid. Human.	Fore	Mission: Apply Deanna Troi to destroy one of your hazards.
-Diplomatic Envoy	Playtest	PT-PT085	Crew	TNG	3	N	1						Negotiation.	Trill	Fore	For each other Diplomatic Envoy you command, this Diplomatic Envoy adds 1 Diplomacy.
-Eager Recruit	Playtest	PT-PT086	Crew	TNG	2	N					1		Medecine.	Human. Romulan.	Aft	If you command a Diplomacy crew, a Military crew, and a Science crew, Eager Recruit costs 1 less energy to play.
-Empty Collectors	Playtest	PT-PT087	Condition	TNG	3	N										Each player cannot have more than 3 energy remaining in his or her energy pile at the end of his or her base phase. Place excess energy in the exhaust pile.
-Engineering Technician	Playtest	PT-PT088	Crew	TNG	3	N					1		Engineering.	Human.	Aft	Mission: Apply Engineering Technician to move any number of tokens from one of your shields to the other.
-Geordi La Forge	Playtest	PT-PT089	Crew	TNG	4	Y					2		Engineering.	Human.	Aft	At the start of each of your base phases, for each other Science crew you command, you may place 1 card from hand on your energy pile.
-Jean-Luc Picard	Playtest	PT-PT090	Crew	TNG	5	Y	3						Negotiation. Leader.	Human.	Fore	Base: If Jean-Luc Picard is aboard U.S.S. Enterprise-E, apply him to charge 3 energy.
-Nutational Shields	Playtest	PT-PT091	Condition	TNG	1	N								Equipment.	Fore Aft	When Nutational Shields enters play, name an affiliation. Each time a starship of that affiliation fires on your starship, you may spend 2 energy to absorb 1 point of power. Dismiss Nutational Shields at the end of the episode.
-Security Officer	Playtest	PT-PT092	Crew	TNG	2	N			1				Combat.	Human.	Aft	Response: If Security Officer is about to be dismissed or destroyed and you command a Leader crew, put Security Officer on owner's exhaust pile instead.
-U.S.S. Enterprise-E	Playtest	PT-PT093	Starship	TNG	12	Y	1						Phasers. Photon Torpedoes.			Each time an episode with a Diplomacy encounter worth 2 or more Victory tokens enters play, you may charge 2 energy. Starship Weapon: Phasers Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
-William T. Riker	Playtest	PT-PT094	Crew	TNG	4	Y			2				Tactical. Leader.	Human.	Fore	Any Encounter: If at a planet episode, apply William T. Riker to add 1 to your total in this encounter.
-Worf	Playtest	PT-PT095	Crew	TNG	4	Y			2				Combat.	Klingon.	Fore	Response: If another of your crew is about to be destroyed, apply Word and spend 2 energy to prevent this.
-Aft Shield	Playtest	PT-PTAftShield	Shield		3											
-Fore Shield	Playtest	PT-PTForeShield	Shield		3											
+Name	Set	ImageFile	Type	Affiliation	Energy	EnergyCharge	Unique	DiplomacyValue	DiplomacyText	MilitaryValue	MilitaryText	ScienceValue	ScienceText	Keywords	SpeciesType	Arrow	Gametext
+Acquire Arms	Playtest	PT-PT001	Episode					1	Charge 1 energy.	1	Remove 1 token from each of your defense cards.	1	Draw 3 cards.	Planet			
+Attend Conference	Playtest	PT-PT002	Episode					1	Draw 2 cards.	1	Draw 2 cards.	1	Draw 2 cards.	Planet			
+Communicate with Alien	Playtest	PT-PT003	Episode					3	Place 3 Diplomacy crew you command on your exhaust pile in any order.	0	Play a Diplomacy crew for free.	0	Play a Diplomacy crew for free.	Space			
+Deliver Shipment	Playtest	PT-PT004	Episode					1	Charge 2 energy.	1	Charge 2 energy.	1	Charge 2 energy.	Space			
+Destroy Homeworld	Playtest	PT-PT005	Episode					0	Charge X energy. X = 9 - the number of crew you command.	3	Dismiss 2 Military crew.	0	Remove all tokens from your defense cards.	Space			
+Enlist Ally	Playtest	PT-PT006	Episode					2	Discard 2 cards from hand.	1		0	You are +2 Military and +1 Diplomacy this episode.	Planet			
+Expose Conspiracy	Playtest	PT-PT007	Episode					0	Each opponent who commands a Diplomacy crew must dismiss 1 Diplomacy crew.	2	Each opponent who commands a Military crew may draw a card.	1		Planet			
+Find Relic	Playtest	PT-PT008	Episode					3	Dismiss all conditions that added to your Diplomacy total in this encounter.	0	Charge 1 energy for each weapon equipment you command.	0	Charge 1 energy for each non-weapon equipment you command.	Planet			
+First Contact	Playtest	PT-PT009	Episode					1	If you won all encounters this episode, charge 2 energy.	1	You are +1 Diplomacy this episode.	1	You are +1 Military this episode	Planet			
+Host Negotiations	Playtest	PT-PT010	Episode					2	Discard 1 card from the top of your deck for each Negotiation crew you command.	0	Charge 1 energy for each Information crew you command.	1	Return a weapon condition to hand.	Space			
+Liberate Captive	Playtest	PT-PT011	Episode					0	Add 2 Military in this episode's Military encounter.	3	Dismiss a Military crew. Each opponent may charge energy equal to that crew's cost.	0	Add 2 Military in this episode's Military encounter.	Planet			
+Negotiate Use	Playtest	PT-PT012	Episode					3	Dismiss a Diplomacy crew. Each opponent may charge energy equal to that crew's cost.	0	Charge 1 energy for each Military crew you command.	0	Charge 1 energy for each Science crew you command.	Space			
+Purchase Technology	Playtest	PT-PT013	Episode					1		0	You may dismiss or discard from hand X equipment cards and charge X energy.	2	Discard 2 cards from hand at random.	Space			
+Search for Lost Crewmember	Playtest	PT-PT014	Episode					1	Return 1 Negotiation crew to hand.	1	Return an equipment condition to hand.	1	Draw 1 card.	Planet			
+Study Primitive Culture	Playtest	PT-PT015	Episode					2	Discard 2 cards from hand.	0	Dismiss up to 2 Military crew, then play that many Diplomacy crew for free.	1		Planet			
+Warp Drive Test	Playtest	PT-PT016	Episode					1	Charge 1 energy for each Negotiation crew you command.	1	Charge 1 energy for each ship condition you command.	1	Charge 1 energy for each Engineering crew you command.	Space			
+Anti-Time Anomaly	Playtest	PT-PT017	Hazard														End of episode: All players dimiss all crew.
+Drained Shields	Playtest	PT-PT018	Hazard														Mission: Any player may apply 3 Military crew to destroy Drained Shields. Military Encounter Winner: Add tokens to your defense cards until both are down. You may apply a Science crew twice to prevent this.
+Genesis Device	Playtest	PT-PT019	Hazard											Khan			End of episode: All crew and equipment are placed in their owners' exhaust piles. Each player may draw until they have 7 cards in hand and may charge 4 energy.
+Kazon Ambush	Playtest	PT-PT020	Hazard														Mission: Any player may apply 3 Military crew to destroy Kazon Ambush. 3rd Encounter Winner: Dismiss a Diplomacy crew, a Military crew, and a Science crew.
+Outmaneuvered	Playtest	PT-PT021	Hazard														Mission: Any player may apply a Military crew and spend 3 energy to destroy Outmaneuvered. Military Encounter Winner: Reveal your hand. Discard all weapon events revealed.
+Pakled Ruse	Playtest	PT-PT022	Hazard														Mission: Any player may apply 2 Military crew to destroy Pakled Ruse. Science Encounter Winner: Reveal your hand. Discard each Science crew revealed.
+Trophies of the Hirogen	Playtest	PT-PT023	Hazard														Mission: Any player may apply 2 Diplomacy crew to destroy Trophies of the Hirogen. Military Encounter Winner: Discard a number of cards from the top of your deck equal to your Military total in this encounter.
+Under Bombardment	Playtest	PT-PT024	Hazard											Planet.			Mission: Any player may discard 3 cards from hand to destroy Under Bombardment. Science Encounter Winner: Reveal your hand. Discard all conditions revealed.
+Witchhunt Trials	Playtest	PT-PT025	Hazard														Mission: Any player may discard 3 cards from hand to destroy Witchhunt Trials. Diplomacy Encounter Winner: Reveal your hand. Discard each Diplomacy crew revealed.
+Adapt	Playtest	PT-PT026	Event	Borg	3		N										Mission: Unless any player spends 2 energy to prevent it, search your deck and take a card into hand; reshuffle.
+Borg Cube 630	Playtest	PT-PT027	Starship	Borg		12	Y					1		Energy Beam. Cutting Beam.	Cube.		At the start of the mission phase, you may charge 1 extra energy for each non-Borg crew you command (limit 3). Starship Weapon - Borg Energy Beam. Cost: 3 energy. Power: 1. Targeting: Opponent. Damage: Discard 1 crew or equipment.
+Borg Queen	Playtest	PT-PT028	Crew	Borg	5		Y			3				Tactical.	Borg.	Fore	While you command 3 drones, up to 3 of your temporary crew are not discarded at the end of episodes.
+B-Type Drone	Playtest	PT-PT029	Crew	Borg	2		N			1				Drone. Combat.	Borg.	Aft	Response: If a crew at a planet episode is about to be destroyed or dismissed, apply B-Type Drone to prevent this, then take command of that crew.
+Cutting Beam	Playtest	PT-PT030	Condition	Borg	3		N								Equipment.	Fore	Plays on a Cube. Starship Weapon. Mission: Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew. You may spend 1 energy to take command of this crew.
+Digger Drone	Playtest	PT-PT031	Crew	Borg	3		N					1		Drone. Geophysics.	Borg.	Aft	If at a planet episode, you may charge one extra energy at the start of your base phase and mission phase.
+Drive Drone	Playtest	PT-PT032	Crew	Borg	2		N					1		Drone.	Borg.	Aft	When Drive Drone enters play, you may add a toke to one of your defense cards to charge 2 energy.
+Drone Alcove	Playtest	PT-PT033	Condition	Borg	1		N							Equipment.		Fore Aft	When you are paying support at the start of your base phase, you may apply up to 2 of your drones to reduce your support cost by 1 for each drone applied.
+Focus	Playtest	PT-PT034	Event	Borg	2		N										Base: Dismiss 1 of your Victory tokens. Take a card from your deck into hand; reshuffle.
+Green Torpedoes	Playtest	PT-PT035	Event	Borg	3		N							Weapon.			Starship weapon. Mission: Power: 2 Targeting: Opponent Damage: Discard 4 cards from deck.
+Military Assimilation Drone	Playtest	PT-PT036	Crew	Borg	3		N			1				Drone.	Borg.	Fore Aft	While you command another crew that has Combat, Helm, Information, or Tactical, Military Assimilation Drone also has that ability.
+Scout Drone	Playtest	PT-PT037	Crew	Borg	3		N			1				Drone. Combat.	Borg.	Fore Aft	Mission: If an opponent's defense card is down, dismiss Scout Drone to destroy a crew that opponent commands.
+Shield Disruptor Beam	Playtest	PT-PT038	Condition	Borg	1		N								Equipment.	Fore	Plays on a Cube. Starship Weapon Mission: Cost: 2 energy Power: 1 Targeting: Opponent Damage: None.
+The Collective	Playtest	PT-PT039	Condition	Borg	1		N										Base or Mission: Apply a Drone to charge 1 engergy.
+22nd Rule of Acquisition	Playtest	PT-PT040	Event	Ferengi	0		N							Rule.			Base or Mission: Apply up to 3 Ferengi. Charge 2 energy for each Ferengi applied.
+75th Rule of Acquisition	Playtest	PT-PT041	Condition	Ferengi	2		N							Rule.			Mission: Spend 1 energy to play a Ferengi crew (you must pay that crew's cost).
+A Small Fee	Playtest	PT-PT042	Condition	Ferengi	1		N										Conditions have a support cost of 1. Players may dismiss a condition instead of paying its support costs.
+Brunt	Playtest	PT-PT043	Crew	Ferengi	4		Y			2				Information.	Ferengi.	Fore	When Brunt enters play, all opponents must discard 1 card from hand. Mission: Apply Brunt to force an opponent to spend 2 energy.
+Dr. Reyga	Playtest	PT-PT044	Crew	Ferengi	3		Y					1		Astrophysics.	Ferengi.	Fore	Science encounter: If at a space episode, apply Dr. Reyga to add 2 Science.
+Ferengi Doctor	Playtest	PT-PT045	Crew	Ferengi	2		N					1		Medicine.	Ferengi.	Fore Aft	Base: Apply Ferengi Doctor to remove a token from a crew.
+Ferengi Financial Net	Playtest	PT-PT046	Event	Ferengi	4		N										Base or Mission: Charge 6 energy.
+Ferengi Gouge Miner	Playtest	PT-PT047	Crew	Ferengi	2		N					1		Geophysics.	Ferengi.	Aft	When Ferengi Gouge Miner enters play, you may destroy a Planet Hazard.
+Ferengi Stealth	Playtest	PT-PT048	Condition	Ferengi	2		N										Response: If a Ferengi you command is being destroyed, return that Ferengi to hand.
+Ferengi Tax Collector	Playtest	PT-PT049	Crew	Ferengi	3		N	1						Communication.	Ferengi.	Aft	At the start of each opponent's base phase, that opponent charges 1 less energy.
+Gaila	Playtest	PT-PT050	Crew	Ferengi	2		Y	2						Trade. Negotiation.	Ferengi.	Aft	Mission: Apply Gaila to destroy an equipment card. That equipment's owner may spend 2 energy to prevent this.
+He Doesn't Have the Lobes	Playtest	PT-PT051	Event	Ferengi	0		N										Mission: Draw 1 card, then charge 2 energy.
+He Has the Lobes	Playtest	PT-PT052	Event	Ferengi	0		N										Mission: Draw 2 cards, then charge 1 energy.
+Krax	Playtest	PT-PT053	Crew	Ferengi	3		Y	1						Communincation.	Ferengi.	Fore	When Krax enters play, you may play a condition from your deck at twice its energy cost.
+Krayton	Playtest	PT-PT054	Starship	Ferengi		12	Y	1						Ferengi Disruptors.	Marauder.		At the start of your base phase, you may draw a card. Starship Weapon - Ferengi Disruptors Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
+Leck	Playtest	PT-PT055	Crew	Ferengi	4		Y			1				Combat.	Ferengi.	Fore	Base: Dismiss a crew. Mission: If at a planet episode, apply Leck and spend 3 energy to destroy a crew.
+Nausicaan Brute	Playtest	PT-PT056	Crew	Ferengi	1		N			1				Combat.	Nausicaan.	Fore Aft	Nausicaan Brute's support cost is +1. Response: If a Ferengi crew you command is about to be destroyed, apply Nausicaan Brute to prevent this.
+Purchase Moon	Playtest	PT-PT057	Event	Ferengi	10		N										Mission: Apply 3 Trade crew to take a Victory token from the pool.
+Quark	Playtest	PT-PT058	Crew	Ferengi	4		Y	2						Trade. Negotiation.	Ferengi.	Aft	Your hand limit is 8. Base: Apply Quark to draw a card.
+Recruit Mercenaries	Playtest	PT-PT059	Event	Ferengi	2		N							Bribe.			Mission: Apply a Negotiation crew and give an opponent one of your Victory tokens. That opponent cannot fire weapons at your starship for the rest of this episode. You cannot fire weapons at that opponent's starship for the rest of this episode.
+Rom	Playtest	PT-PT060	Crew	Ferengi	4		Y					2		Engineering.	Ferengi.	Aft	When Rom enters play, you may remove a token from 1 of your defense cards. Mission: Apply Rom to remove a token from 1 of your defense cards.
+Tog	Playtest	PT-PT061	Crew	Ferengi	3		Y	1						Trade. Leader.	Ferengi.	Fore	Mission: While Tog is aboard the Krayton and an opponent has a defense card down, apply Tog to take command of one of that opponent's Diplomacy crew.
+Zek	Playtest	PT-PT062	Crew	Ferengi	5		Y	3						Leader. Trade.	Ferengi.	Aft	Mission: Apply Zek to play a crew (you must pay that crew's energy cost).
+Advanced Disruptors	Playtest	PT-PT063	Condition	Klingon	3		N	3							Equipment.	Fore	Mission: Starship Weapon: Disruptors Cost: 3 energy Power: 2 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
+Blood Oath	Playtest	PT-PT064	Event	Klingon	X		N										Mission: Apply 2 Combat crew to destroy a crew. X = the energy cost + skill icon number on that crew.
+Boarding Party	Playtest	PT-PT065	Event	Klingon	3		N										Requires 3 combat crew. Mission: Destroy a Diplomacy or Science crew aboard a starship with a defense card down.
+Diplomatic Escort	Playtest	PT-PT066	Crew	Klingon	3		N	1						Negotiation.	Klingon.	Aft	If you have won the Military encounter at this episode, adds 1 extra Diplomacy.
+Ferocity	Playtest	PT-PT067	Event	Klingon	1		N										Mission: If at a planet episode, apply a Combat crew to fully apply a Diplomacy or Science crew, or to destroy a fully applied crew.
+General Chang	Playtest	PT-PT068	Crew	Klingon	5		Y			3				Tactical.	Klingon.	Fore Aft	Response: While on I.K.S. Kla'Diyus and you are paying support, apply General Chang instead of paying a Tactical crew's support cost.
+Gowron	Playtest	PT-PT069	Crew	Klingon	5		Y			3				Tactical.	Klingon.	Fore Aft	Players who end an episode with no crew in play must destroy one of their Victory tokens.
+Honorable Warrior	Playtest	PT-PT070	Crew	Klingon	2		N			1				Combat.	Klingon.	Fore Aft	Any encounter: If at a planet episode, apply Honorable Warrior to make an opponent -1 in this encounter.
+I.K.S. Bortas	Playtest	PT-PT071	Starship	Klingon		12	Y	1						Disruptors. Photon Torpedoes. Cloak.	Vor'cha		You may charge 1 energy each time you earn a Victory token in a Diplomacy encounter. Starship Weapon: Disruptors Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
+K'Ehleyr	Playtest	PT-PT072	Crew	Klingon	3		Y	2						Negotiation.	Klingon. Human.	Fore	Response: If you win a Diplomacy encounter, you may dismiss K'Ehleyr to negate the encounter text (you still earn the Victory tokens, if any).
+Klingon Diplomat	Playtest	PT-PT073	Crew	Klingon	3		N	1							Klingon.	Fore	Response: If you just lost the Diplomacy encounter, dismiss Klingon Diplomat to destroy a Diplomacy crew on the starship which won the encounter.
+Klingon Scientist	Playtest	PT-PT074	Crew	Klingon	3		N					1		Astrophysics.	Klingon.	Aft	If you have won the Military encounter at this episode, adds 1 extra Science.
+Klingon Veteran	Playtest	PT-PT075	Crew	Klingon	2		N			1				Combat.	Klingon.	Fore Aft	Mission: If at a planet episode, apply Klingon Veteran and discard a card from hand to destroy any temporary crew or crew that is fully applied.
+Klingon Warp Tech	Playtest	PT-PT076	Crew	Klingon	3		N					1		Engineering.	Klingon.	Aft	The first time you fire a weapon each mission phase, you may charge 1 energy.
+Photon Shot	Playtest	PT-PT077	Event	Klingon	3		N								Weapon.		Requires Photon Torpedoes. Mission: Starship Weapon - Photon Torpedo Cost: Apply a Military crew. Power: 3 Targeting: You Damage: Discard 3 cards from deck.
+Targeting Scanners	Playtest	PT-PT078	Condition	Klingon	1		N								Equipment.	Fore	Response: When you fire your starship disruptors, apply 1 Military to reduce the cost to fire by 1 energy.
+Weapons Officer	Playtest	PT-PT079	Crew	Klingon	3		N			1				Tactical.	Klingon.	Fore	When Weapons Officer enters play, you may apply him to take a weapon event into hand from your discard pile.
+Aggressive Admiral	Playtest	PT-PT080	Crew	TNG	3		N	1						Negotiation.	Human.	Fore	Military encounter: If you command another Diplomacy crew, apply Aggressive Admiral to add 1 Military.
+Beverly Crusher	Playtest	PT-PT081	Crew	TNG	4		Y					2		Medicine.	Human.	Aft	Base: Apply Beverly Crusher and spend 1 energy to take a crew from your discard pile into hand.
+Conference	Playtest	PT-PT082	Condition	TNG	1		N										Any Encounter: If you command a Diplomacy crew, a Military crew, and a Science crew, dismiss Conference to add 2 to your total in this encounter.
+Data Shuffling Cards	Playtest	PT-PT083	Event	TNG	1		N										Mission: Place a condition on its owner's exhaust pile. That player may charge energy equal to that condition's cost.
+Deanna Troi	Playtest	PT-PT084	Crew	TNG	4		Y	2						Communication. Telepathy.	Betazoid. Human.	Fore	Mission: Apply Deanna Troi to destroy one of your hazards.
+Diplomatic Envoy	Playtest	PT-PT085	Crew	TNG	3		N	1						Negotiation.	Trill	Fore	For each other Diplomatic Envoy you command, this Diplomatic Envoy adds 1 Diplomacy.
+Eager Recruit	Playtest	PT-PT086	Crew	TNG	2		N					1		Medecine.	Human. Romulan.	Aft	If you command a Diplomacy crew, a Military crew, and a Science crew, Eager Recruit costs 1 less energy to play.
+Empty Collectors	Playtest	PT-PT087	Condition	TNG	3		N										Each player cannot have more than 3 energy remaining in his or her energy pile at the end of his or her base phase. Place excess energy in the exhaust pile.
+Engineering Technician	Playtest	PT-PT088	Crew	TNG	3		N					1		Engineering.	Human.	Aft	Mission: Apply Engineering Technician to move any number of tokens from one of your shields to the other.
+Geordi La Forge	Playtest	PT-PT089	Crew	TNG	4		Y					2		Engineering.	Human.	Aft	At the start of each of your base phases, for each other Science crew you command, you may place 1 card from hand on your energy pile.
+Jean-Luc Picard	Playtest	PT-PT090	Crew	TNG	5		Y	3						Negotiation. Leader.	Human.	Fore	Base: If Jean-Luc Picard is aboard U.S.S. Enterprise-E, apply him to charge 3 energy.
+Nutational Shields	Playtest	PT-PT091	Condition	TNG	1		N								Equipment.	Fore Aft	When Nutational Shields enters play, name an affiliation. Each time a starship of that affiliation fires on your starship, you may spend 2 energy to absorb 1 point of power. Dismiss Nutational Shields at the end of the episode.
+Security Officer	Playtest	PT-PT092	Crew	TNG	2		N			1				Combat.	Human.	Aft	Response: If Security Officer is about to be dismissed or destroyed and you command a Leader crew, put Security Officer on owner's exhaust pile instead.
+U.S.S. Enterprise-E	Playtest	PT-PT093	Starship	TNG		12	Y	1						Phasers. Photon Torpedoes.			Each time an episode with a Diplomacy encounter worth 2 or more Victory tokens enters play, you may charge 2 energy. Starship Weapon: Phasers Cost: 3 energy Power: 1 Targeting: You Damage: Opponent must dismiss 1 crew or equipment.
+William T. Riker	Playtest	PT-PT094	Crew	TNG	4		Y			2				Tactical. Leader.	Human.	Fore	Any Encounter: If at a planet episode, apply William T. Riker to add 1 to your total in this encounter.
+Worf	Playtest	PT-PT095	Crew	TNG	4		Y			2				Combat.	Klingon.	Fore	Response: If another of your crew is about to be destroyed, apply Word and spend 2 energy to prevent this.
+Aft Shield	Playtest	PT-PTAftShield	Shield		3												
+Fore Shield	Playtest	PT-PTForeShield	Shield		3												
+Acquire Arms 7.1	7.1	X2-PT001	Episode					1	Charge 2 energy.	1	Remove 1 token from each of your defense cards.	1	Draw 3 cards.	Planet			
+Explore Anomaly 7.1	7.1	X2-PT002	Episode					1		0	Charge 3 energy.	2	Relieve a Science crewmember.	Space			
+Communicate with Alien 7.1	7.1	X2-PT003	Episode					3	Place 3 Diplomacy crew you command on your exhaust pile in any order.	0	Play a Diplomacy crew for free.	0	Play a Diplomacy crew for free.	Space			
+Deliver Shipment 7.1	7.1	X2-PT004	Episode					1	Charge 2 energy.	1	Charge 2 energy.	1	Charge 2 energy.	Space			
+Deep Space Research 7.1	7.1	X2-PT005	Episode					0	Charge 1 energy for each Science crewmember you command.	0	Charge 1 energy for each Science crewmember you command.	3	Relieve a Science crewmember, and all agendas that added to your Science total in this engagement.	Space			
+Enlist Ally 7.1	7.1	X2-PT006	Episode					2	Discard 2 cards from hand.	1		0	You are +2 Military and +1 Diplomacy in engagements at this location.	Planet			
+Expose Conspiracy 7.1	7.1	X2-PT007	Episode					0	Each opponent who commands a Diplomacy crewmember must relieve1 Diplomacy crewmember.	2	Each opponent who commands a Military crewmember may draw a card.	1		Planet			
+Find Relic 7.1	7.1	X2-PT008	Episode					3	Relieve a Diplomacy crewmember, and all agendas that added to your Diplomacy total in this engagement.	0	Charge 1 energy for each upgrade equipment you command.	0	Charge 1 energy for each possession equipment you command.	Planet			
+First Contact 7.1	7.1	X2-PT009	Episode					1	If you won all encounters this episode, charge 3 energy.	1	You are +1 Diplomacy in the Diplomacy engagement at this location.	1	You are +1 Military in the Military engagement at this location.	Planet			
+Host Negotiations 7.1	7.1	X2-PT010	Episode					2	Discard 1 card from the top of your deck for each Diplomacy crewmember you command.	0	Charge 1 energy for each Military crewmember you command.	1		Space			
+Salvage Enemy Starship 7.1	7.1	X2-PT011	Episode					0		1		2	Reveal your hand to the player who won the Diplomacy engagement; that player chooses a card to discard.	Planet			
+Negotiate Use 7.1	7.1	X2-PT012	Episode					3	Relieve a Diplomacy crewmember. Each opponent may charge energy equal to its energy cost.	0	Charge 1 energy for each Military crewmember you command.	0	Charge 1 energy for each Science crewmember you command.	Space			
+Stop Agreement 7.1	7.1	X2-PT013	Episode					1		2	Place 1 token on each of your defense cards.	0	Charge 1 energy for each equipment card you command (limit 4).	Planet			
+Search for Lost Crewmember 7.1	7.1	X2-PT014	Episode					1	Return 1 Negotiation crewmember to hand.	1	Return an upgrade equipment to hand.	1	Draw 1 card.	Planet			
+Study Primitive Culture 7.1	7.1	X2-PT015	Episode					2	Discard 2 cards from hand.	0	Relieve up to 2 Military crewmembers, then play that many Diplomacy crewmembers for free.	1		Planet			
+Warp Drive Test 7.1	7.1	X2-PT016	Episode					1	Charge 1 energy for each Negotiation crewmember you command.	1	Charge 1 energy for each upgrade equipment you command.	1	Charge 1 energy for each Engineering crewmember you command.	Space			
+Test New Weapon 7.1	7.1	X2-PT017	Episode					0	Draw 1 card for each Diplomacy crewmember you command.	2	Discard 1 card from the top of your deck for each Military crewmember you command.	1		Space			
+Fight Off Intruders 7.1	7.1	X2-PT018	Episode					1		2	Relieve a Military crewmember	0	Charge 1 energy for each Military crewmember you command.	Space			
+Neutralized 7.1	7.1	X2-PT023	Event	Borg	0	1	N										Requires an Engineering crewmember to play. Mission: Reveal the top card of a player's deck, energy pile, and exhaust pile. You may discard one of those cards (replace others).
+Constant Pressure 7.1	7.1	X2-PT024	Agenda	Borg	1		N										To play, order a Diplomacy crewmember. Opponents cannot remove more than 5 fatigue tokens at the start of their turns.
+Seven of Nine 7.1	7.1	X2-PT025	Crewmember	Borg	4		Y					2		Engineering.			Any engagement: Order Seven of Nine twice to add 1 to your total in this engagement. If at a space location, add 2 instead.
+Adapt 7.1	7.1	X2-PT026	Event	Borg	1		N										Mission: To play, order an Engineering crewmember. Unless any player spends 2 energy to negate Adapt, search your deck for any card and take it into hand; reshuffle.
+Borg Cube 630 7.1	7.1	X2-PT027	Starship	Borg		10	Y					1			Cube		Once each briefing phase, you may play a drone or upgrade equipment for free. Mission: Order a Military crewmember to fire a Power 1 energy beam. Damage = discard 3 cards from top of deck.
+Borg Queen 7.1	7.1	X2-PT028	Crewmember	Borg	6		Y			3				Leader. Tactical.	Borg		While aboard a Borg starship, up to 3 of your temporary crewmembers are considered permanent.
+B-Type Drone 7.1	7.1	X2-PT029	Crewmember	Borg	2		N			1				Drone. Combat.	Borg	Aft	Any engagement: Order B-Type Drone to take command of a fatigued crewmember aboard a starship with a defense card down.
+Cutting Beam 7.1	7.1	X2-PT030	Event	Borg	1		N										Requires a Borg starship. Mission: Order a Military crewmember to fire a Power 1 cutting beam. Damage = Opponent chooses 1 crewmember to be destroyed. You may order a Science crewmember to take command of that opponent's crewmember instead.
+Geo Drone 7.1	7.1	X2-PT031	Crewmember	Borg	2		N					1		Drone. Geophysics.	Borg	Aft	Briefing: Order Geo Drone and discard the top 2 cards of your deck to charge 1 energy.
+Drive Drone 7.1	7.1	X2-PT032	Crewmember	Borg	2		N					1		Drone. Engineering.	Borg	Aft	Mission: Order Drive Drone to take a card into hand from your energy pile; reshuffle.
+Drone Alcove 7.1	7.1	X2-PT033	Equipment	Borg	1		N								Upgrade	Fore Aft	Plays on a Borg starship. When paying supply costs, you may order up to two of your drones to reduce your supply cost by 1 for each drone ordered.
+Boarding 7.1	7.1	X2-PT034	Event	Borg	5		N										To play requires 3 Combat drones. Mission: if an opponent's defense card is down, that opponent must divide their crewmembers into 2 groups. You may take command of up to 2 crewmembers from 1 of those groups.
+Diplomacy Assimilation Drone 7.1	7.1	X2-PT035	Crewmember	Borg	3		N	1						Drone.	Borg	Aft	Response: If a Diplomacy crewmember uses its special ability, order Diplomacy Assimilation Drone to negate that ability.
+Military Assimilation Drone 7.1	7.1	X2-PT036	Crewmember	Borg	3		N			1				Drone. Combat.	Borg	Fore Aft	Response: If a Military crewmember uses its special ability, order Military Assimilation Drone to negate that ability.
+Tussle Drone 7.1	7.1	X2-PT037	Crewmember	Borg	2		N			1				Drone. Combat.	Borg	Fore Aft	Mission: If an opponent's defense card is down, order Tussle Drone to fatigue a crewmember aboard that opponent's starship.
+Science Drone 7.1	7.1	X2-PT038	Crewmember	Borg	3		N					1		Drone. Engineering.	Borg	Aft	Briefing: Order Science Drone and spend 1 energy to look at your exhaust pile and place up to 2 cards from there under your energy pile; reshuffle exhaust pile.
+Resistance is Futile 7.1	7.1	X2-PT039	Agenda	Borg	0	1	N										To play, order a Diplomacy crewmember. Counts as two agendas when determining which player is dominant.
+22nd Rule of Acquisition 7.1	7.1	X2-PT040	Agenda	Ferengi	0	1	N							Rule.			To play, order a Diplomacy crewmember. Mission: Place up to 3 cards from hand on your energy pile. Dominant - For each card you put on your energy pile this way, charge 1 energy.
+62nd Rule of Acquisition 7.1	7.1	X2-PT041	Agenda	Ferengi	0	1	N							Rule.			To play, order a Diplomacy crewmember. Dominant - Whenever an opponent spends energy during the mission phase, you may draw a card.
+A Small Fee 7.1	7.1	X2-PT042	Agenda	Ferengi	0	1	N										To play, order a Trade crewmember. Mission: spend 3 energy to place a fatigue token on an opponent's crewmember.
+Brunt 7.1	7.1	X2-PT043	Crewmember	Ferengi	4		Y			2				Information.	Ferengi	Fore	When Brunt comes into play, all opponents must spend 1 engery (if able). Mission: Order Brunt to force an opponent with at least 5 energy charged to spend 2 energy.
+33rd Rule of Acquisition 7.1	7.1	X2-PT044	Event	Ferengi	0		N							Rule.			Any engagement: if you won the Diplomacy engagement at this location, add 1 to your total this engagement.
+Vacuum-Desicated Remains 7.1	7.1	X2-PT045	Event	Ferengi	1		N										Mission: If you command a Trade crewmember, place a card from your discard pile on your exhaust pile.
+Ferengi Financial Net 7.1	7.1	X2-PT046	Event	Ferengi	5		N										Briefing: If you command a Trade crewmember, charge 7 energy.
+Ferengi Gouge Miner 7.1	7.1	X2-PT047	Crewmember	Ferengi	3		N					1		Geophysics.	Ferengi	Aft	If you have won the Diplomacy engagement at this location, add 1 additional Science during the Science encounter.
+Ferengi Stealth 7.1	7.1	X2-PT048	Agenda	Ferengi	0	1	N										To play, order a Diplomacy crewmember. Response: If a Ferengi you command is about to be destroyed, discard a card from hand and fatigue that Ferengi instead.
+Ferengi Tax Collector 7.1	7.1	X2-PT049	Crewmember	Ferengi	3		N	1						Communication.	Ferengi	Aft	Mission: Order Ferengi Tax Collector to force an opponent with at least 4 cards in hand to spend 1 energy.
+Gaila 7.1	7.1	X2-PT050	Crewmember	Ferengi	2		Y	1						Trade. Negotiation.	Ferengi	Aft	Mission: Order Gaila to destroy an upgrade equipment. That equipment's owner may spend 2 energy to prevent this.
+He Doesn't Have the Lobes 7.1	7.1	X2-PT051	Event	Ferengi	1		N										Mission: If you command a Trade crewmember, draw 2 cards.
+He Has the Lobes 7.1	7.1	X2-PT052	Event	Ferengi	1		N										Mission: If you command a Trade crewmember, charge 2 energy.
+Ferengi Underling 7.1	7.1	X2-PT053	Crewmember	Ferengi	3		N	1						Communincation.	Ferengi	Fore	When Ferengi Underling enters play aboard a Ferengi starship, you may play an agenda from your exhaust pile (you must pay that agenda's energy cost); reshuffle.
+Krayton 7.1	7.1	X2-PT054	Starship	Ferengi		10	Y	1							Maurader		Mission: Play an agenda card from your energy pile (you must pay that agenda's cost). Mission: Order a Military crewmember and spend 2 energy to fire a Power 1 disruptor. Damage = Discard 3 cards from top of deck.
+Leck 7.1	7.1	X2-PT055	Crewmember	Ferengi	4		Y			2				Combat.	Ferengi	Fore	Mission: If an opponent has a defense card down, order Leck twice to destroy 1 of that opponent's crewmembers.
+Nausicaan Brute 7.1	7.1	X2-PT056	Crewmember	Ferengi	1		N			1				Combat.	Nausicaan	Fore Aft	To play, you must command a Ferengi crewmember. Nausicaan Brute's suply cost is +1. Response: If a Ferengi crewmember you command is about to be destroyed, relieve Nausicaan Brute instead.
+Purchase Moon 7.1	7.1	X2-PT057	Event	Ferengi	9		N										Mission: Order 3 Trade crewmembers to take a Victory token from the pool.
+Quark 7.1	7.1	X2-PT058	Crewmember	Ferengi	4		Y	2						Trade. Negotiation.	Ferengi	Aft	Increase your hand size by one. Mission: Order Quark to draw a card.
+Ferengi Scientist 7.1	7.1	X2-PT059	Crewmember	Ferengi	4		N					2		Astrophysics.	Ferengi	Fore	Science engagement: If at an opponent's space location, order Ferengi Scientist twice to add 3 Science.
+Rom 7.1	7.1	X2-PT060	Crewmember	Ferengi	4		Y					2		Engineering.	Ferengi	Aft	When Rom enters play aboard a Ferengi starship, you may remove 1 token from one of your defense cards. Mission: Oder Rom to move a token from one of your defense cards to another.
+Tog 7.1	7.1	X2-PT061	Crewmember	Ferengi	4		Y	2						Trade.	Ferengi	Fore	Mission: While at a planet location and you command Krayton, order Tog twice to take command of an opponent's Diplomacy crewmember (return crewmember at end of location).
+Zek 7.1	7.1	X2-PT062	Crewmember	Ferengi	6		Y	3						Leader. Trade.	Ferengi	Aft	Mission: Order Zek and discard a card from hand to play a crewmember from your exhaust pile (you must pay that crewmember's energy cost); reshuffle.
+Disruptor Upgrade 7.1	7.1	X2-PT063	Equipment	Klingon	3		N								Upgrade	Fore	Your starship's disruptor gains the additional damage = opponent chooses 1 card to discard from hand.
+Glorious Victory 7.1	7.1	X2-PT064	Agenda	Klingon	1	1	N										To play, order a Diplomacy crewmember or a Leader crewmember. Each time you destroy an opponent's crewmember, that opponent must discard the top card of their deck. Dominant - Instead discard 3 cards from the top of their deck.
+Fight Hand-to-Hand 7.1	7.1	X2-PT065	Agenda	Klingon	0	1	N										To play, order a Diplomacy crewmember. Any engagement: If an opponent's defense card is down, order 2 Combat crewmembers to make that opponent -1 in this engagement. Dominant - instead order 1 Combat crewmember to make that opponent -1 in this engagement.
+Weapons Officer 7.1	7.1	X2-PT066	Crewmember	Klingon	3		N			1				Helm.	Klingon	Fore	The first time you fire a weapon each mission phase, you may draw a card.
+Ferocity 7.1	7.1	X2-PT067	Event	Klingon	0		N										Mission: Order a Combat crewmember at a planet location. Fatigue a Science or Diplomacy crewmember, or destroy a fatigued crewmember.
+Jadzia Dax 7.1	7.1	X2-PT068	Crewmember	Klingon	4		Y					2		Astrophysics. Helm.	Trill	Fore	Each time you score a Victory point, you may charge 1 energy.
+Gowron 7.1	7.1	X2-PT069	Crewmember	Klingon	6		Y	3						Leader. Negotiation.	Klingon	Fore	Each time an opponent wins the Science engagement, they must discard the top 2 cards of their deck.
+Honor Guard 7.1	7.1	X2-PT070	Crewmember	Klingon	2		N			1				Combat.	Klingon	Fore Aft	Response: If a crewmember is about to be destroyed, relieve Honor Guard instead and charge 2 energy.
+I.K.S. Rotarran 7.1	7.1	X2-PT071	Starship	Klingon		10	Y			1					Bird of Prey		Players who command no crewmembers at the end of the mission phase must destroy one of their Victory points. Mission: Order a Military crewmember to fire a Power 1 disruptor. Damage = Discard 3 cards from top of deck.
+Field Medic 7.1	7.1	X2-PT072	Crewmember	Klingon	3		N					1		Medicine.	Klingon	Fore Aft	Response: If a Klingon crewmember is about to be destroyed, order Field Medic and discard cards from hand equal to that crewmember's cost. That crewmember is fatigued instead.
+Klingon Diplomat 7.1	7.1	X2-PT073	Crewmember	Klingon	3		N	1						Information.	Klingon	Fore	Response: If you just lost the Diplomacy engagement, order Klingon Diplomat to destroy a Diplomacy crewmember on the starship which won the engagement.
+Klingon Scientist 7.1	7.1	X2-PT074	Crewmember	Klingon	3		N					1		Astrophysics.	Klingon	Aft	Response: If you win an engagement at a space location, order Klingon Scientist to negate that engagement's text (you still score any Victory points).
+Imperial Veteran 7.1	7.1	X2-PT075	Crewmember	Klingon	2		N			1				Combat.	Klingon	Fore Aft	Response: If you just won the Military engagement at a planet location, order Imperial Veteran to place a fatigue token on a crewmember.
+Martok 7.1	7.1	X2-PT076	Crewmember	Klingon	6		Y			3				Leader. Tactical.	Klingon	Fore	Your disruptors and torpedoes gain the additional damage = discard 1 card from top of deck.
+Photon Shot 7.1	7.1	X2-PT077	Event	Klingon	*		N							Weapon. Torpedo.			Requires a Klingon starship. Mission: Order a Military crewmember and spend 2 energy for a Power 2 torpedo. Damage = Destroy 1 crewmember or 2 fatigued crewmembers.
+Noble Leader 7.1	7.1	X2-PT078	Event	Klingon	1		N										Response: If a Victory point is being removed from play, order a Leader crewmember to score that Victory point.
+Intimidate 7.1	7.1	X2-PT079	Event	Klingon	0		N										Any engagement: If you won the Military engagement at this location, add 1 to your total in this engagement.
+Peaceful Intentions 7.1	7.1	X2-PT080	Agenda	TNG	0	1	N										To play, order a Diplomacy crewmember. When Peaceful Intentions enters play, you may order a Diplomacy crewmember to return an agenda to its owner's hand
+Beverly Crusher 7.1	7.1	X2-PT081	Crewmember	TNG	4		Y					2		Medicine.	Human	Fore Aft	Briefing: Order Beverly Crusher twice to take a crewmember from your discard pile into hand.
+Conference 7.1	7.1	X2-PT082	Agenda	TNG	1	1	N										To play, order a Diplomacy crewmember, a Military crewmember, and a Science crewmember. While you command a Diplomacy crewmember, a Military crewmember, and a Science crewmember, add 1 to your total in this engagement. Dominant - Instead relieve Conference to add 2 to your total.
+Defensive Posture 7.1	7.1	X2-PT083	Agenda	TNG	0	1	N										To play, order a Diplomacy crewmember. Response: When an opponent fires upon your starship, you may order a Military crewmember to fire a Power 1 phaser at that opponent. Damage = Discard 2 cards from top of deck.
+Deanna Troi 7.1	7.1	X2-PT084	Crewmember	TNG	4		Y	2						Communication. Telepathy.	Betazoid Human	Fore	Mission: Order Deanna Troi to destroy one of your hazards.
+Diplomatic Envoy 7.1	7.1	X2-PT085	Crewmember	TNG	3		N	1						Negotiation.	Trill	Fore	During a Diplomacy engagement, for each other Diplomatic Envoy you command, this Diplomatic Envoy adds 1 Diplomacy.
+Ops Officer 7.1	7.1	X2-PT086	Crewmember	TNG	2		N	1						Communication.	Human	Fore	When you play Ops Officer, you may order Ops Officer to return an agenda to its owner's hand.
+Research Team Member 7.1	7.1	X2-PT087	Crewmember	TNG	3		N					1		Astrophysics.	Bolian	Fore	During a Science engagement, for each other Research Team Member you command, this Research Team Member adds 1 Science.
+Engineering Technician 7.1	7.1	X2-PT088	Crewmember	TNG	3		N					1		Engineering.	Human	Aft	Mission: Order Engineering Technician to move any number of tokens from one of your defense cards to the other.
+Geordi La Forge 7.1	7.1	X2-PT089	Crewmember	TNG	4		Y					2		Engineering.	Human	Aft	At the start of each of your briefing phases, for each other Science crewmember you command, you may place 1 card from hand on your energy pile.
+Jean-Luc Picard 7.1	7.1	X2-PT090	Crewmember	TNG	6		Y	3						Leader. Negotiation. Culture.	Human	Fore	Briefing: If Jean-Luc Picard is aboard U.S.S. Enterprise-E, order him to charge 1 energy for each science crewmember you command (limit 3).
+Jamaharon 7.1	7.1	X2-PT091	Event	TNG	0		N										Briefing: Order a Negotiation crewmember to destroy an agenda. That agenda's owner may charge up to 3 energy.
+Security Officer 7.1	7.1	X2-PT092	Crewmember	TNG	2		N			1				Combat.	Human	Fore Aft	Response: If Security Officer is about to be dismissed or destroyed and you command a Leader crewmember, put Security Officer on owner's exhaust pile instead.
+U.S.S. Enterprise-E 7.1	7.1	X2-PT093	Starship	TNG		10	Y	1									Briefing: Order a Diplomacy crewmember to play an agenda from your energy pile (you must pay that agenda's cost); reshuffle. Mission: Order a Military crewmember and spend 2 energy to fire a power 1 phaser. Damage = Discard 2 cards from top of deck.
+William T. Riker 7.1	7.1	X2-PT094	Crewmember	TNG	4		Y			2				Tactical. Leader.	Human	Fore	Any engagement: If at a planet location, order William T. Riker to add 1 to your total in this engagement.
+Worf 7.1	7.1	X2-PT095	Crewmember	TNG	4		Y			2				Combat.	Klingon	Fore	Response: If a Diplomacy crewmember or a Science crewmember you command is about to be destroyed, order Worf twice to prevent this.
+Team Effort 7.1	7.1	X2-PT096	Event	TNG	0		N										Any engagement: If you command a Diplomacy crewmember, a Military crewmember, and a Science crewmember, add 1 to your total in this engagement.
+Aft Shield 7.1	7.1	X2-PTAftShield	Shield		3												
+Fore Shield 7.1	7.1	X2-PTForeShield	Shield		3												
+Turn Sequence 7.1	7.1	X2-PTTurnSequence	Helper														
